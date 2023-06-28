@@ -1,0 +1,24 @@
+{
+    "employees":
+    [
+        {
+             "Fullname": "Lois Nkeiru",
+             "Contact": "07084350700",
+             "Email": "nkeiruloisy@yahoo.com",
+             "Salary": "$500"
+        },
+        {
+             "Fullname": "Faith Akudo",
+             "Contact": "07037356437",
+             "Email": "faithy@yahoo.com",
+             "Salary": "$400"
+        },
+        {
+             "Fullname": "Deborah Chioma",
+             "Contact": "07084567890",
+             "Email": "chiomazy_d@yahoo.com",
+             "Salary": "$500"
+        }
+
+    ]
+}
